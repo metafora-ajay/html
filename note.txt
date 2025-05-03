@@ -1,0 +1,149 @@
+HTML
+-----------------------
+
+HTML-- HYPERTEXT MARKUP LANGUAGE
+
+MARKUP LANGUAGE - USED TO CREATE WEB APPLICATIONS
+
+PROGRAMMING LANGUAGE - LOGICAL OPERATIONS
+
+
+HTML TAGS
+-----------
+
+<tagname> - opening tag
+</tagname>- closing tag
+<tagname/> - self closing tag
+<> </>--- empty fragments(no tagname)
+
+code comment --  clrl + / 
+
+
+Run - File right click - copy path
+browser opens and copy the path and Run the code
+
+Heading -- h1
+Paragraph -- p 
+imgage -- img -- eg. for self closing tag
+
+Paragraph-  lorem - enter
+alt + z ( arranging the paragraph)---
+alt + w ( tag wrap ).  --- (default paragraph . change to other formats)----
+
+bold, underline, italic, strong  ( b,i,u,strong) ---- formating TAGS
+mark -(mark)- yellow shade,
+em -(em)- italic property
+del deleted line
+
+
+-------------------------------------
+
+     <!-- list -->
+     <!-- Unordered list -->
+      <ul type="square, circle,etc">
+        <li>apple</li>
+        <li>orange</li>
+        <li>grapes</li>
+      </ul>  
+
+
+      
+      <!-- Ordered list -->
+       <ol type="1,a,A, etc">
+        <li>apple</li>
+        <li>orange</li>
+        <li>grapes</li>
+       </ol>
+
+
+ -------------------------------------
+  Tables
+
+
+ <table>
+        <thead>
+            <tr>
+                <th>Product Name</th>
+                <th>Description</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Samsung</td>
+                <td><b>Samsung</b> <i>Galaxy</i> <mark>S25</mark> <u>Ultra</u> launch in India brings massive <strong>price</strong> drop for <del>S24</del> <em>Ultra</em></td>
+                <td>20000</td>
+            </tr>
+            <tr>
+                <td>Oppo</td>
+                <td><b>Samsung</b> <i>Galaxy</i> <mark>S25</mark> <u>Ultra</u> launch in India brings massive <strong>price</strong> drop for <del>S24</del> <em>Ultra</em></td>
+                <td>25000</td>
+            </tr>
+            <tr>
+                <td>Apple</td>
+                <td><b>Samsung</b> <i>Galaxy</i> <mark>S25</mark> <u>Ultra</u> launch in India brings massive <strong>price</strong> drop for <del>S24</del> <em>Ultra</em></td>
+                <td>60000</td>
+            </tr>
+        </tbody>
+    </table>
+
+--------------------------------------------------
+
+
+
+Links
+
+anchor tag- a
+
+ <!-- links -->
+     <a href="https://www.amazon.in/" target="_blank">
+     Click Here(text)
+     </a>
+
+
+
+------------------------------------------------------------------
+   Images
+
+   
+     <!-- Image -->
+
+     using url link
+      <img src="https://i0.wp.com/picjumbo.com/wp-content/uploads/mysterious-glowing-circle-in-the-forest-free-image.jpeg?w=600&quality=80" alt="image not displayed" width="50%" height="50%">
+      
+      
+       using  folder link
+      <img src="./images/waterfall-falling-from-underneath-elven-house-concept-art-background-image_492154-754.avif" width="50%" height="50%">
+
+
+---------------------------------------
+
+
+Audio
+
+    
+      <!-- audio -->
+       <audio src="./audio & video/Alai Paayuthe (feat. Rajani Shridhar)(MP3_320K).mp3" controls></audio>
+
+
+
+Video
+       <!-- video -->
+        <video controls autoplay height="50%" width="50%">
+            <source src="./audio & video/VID20240817181215.mp4" type=video/mp4 >
+            
+ </video>
+
+---------------------------------------------------------------------
+
+
+Forms 
+
+In line elements--images, anchor tags, labels etc
+block line elements- paragraph, headlines, OL,UL
+
+
+
+
+portfolio website
+
